@@ -28,8 +28,6 @@ Real-world applications include:
 ---
 
 ## Quickstart
-## Run the Chatbot (Terminal)
-
 
 ### Clone & Setup
 ```bash
